@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="77187f92-2c71-471c-85a2-2ece503adc32" name="Changes" comment="added dependency for spring context">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/niit/bej/domain/User.java" afterDir="false" />
+    <list default="true" id="77187f92-2c71-471c-85a2-2ece503adc32" name="Changes" comment="added getters and setters for User">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/niit/bej/domain/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/niit/bej/domain/User.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +15,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -74,14 +75,73 @@
       <option name="project" value="LOCAL" />
       <updated>1676962224506</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="created User.java">
+      <created>1676962311677</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1676962311677</updated>
+    </task>
+    <task id="LOCAL-00004" summary="created Order.java interface">
+      <created>1676962409911</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1676962409911</updated>
+    </task>
+    <task id="LOCAL-00005" summary="created ProductOrder.java">
+      <created>1676962462821</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1676962462821</updated>
+    </task>
+    <task id="LOCAL-00006" summary="added fields for User">
+      <created>1676962550055</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1676962550055</updated>
+    </task>
+    <task id="LOCAL-00007" summary="added constructors for User">
+      <created>1676962584730</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1676962584730</updated>
+    </task>
+    <task id="LOCAL-00008" summary="added getters and setters for User">
+      <created>1676962609097</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1676962609097</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="initial commit" />
     <MESSAGE value="added dependency for spring context" />
-    <option name="LAST_COMMIT_MESSAGE" value="added dependency for spring context" />
+    <MESSAGE value="created User.java" />
+    <MESSAGE value="created Order.java interface" />
+    <MESSAGE value="created ProductOrder.java" />
+    <MESSAGE value="added fields for User" />
+    <MESSAGE value="added constructors for User" />
+    <MESSAGE value="added getters and setters for User" />
+    <option name="LAST_COMMIT_MESSAGE" value="added getters and setters for User" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
