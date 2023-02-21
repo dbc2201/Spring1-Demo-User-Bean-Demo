@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="77187f92-2c71-471c-85a2-2ece503adc32" name="Changes" comment="added getters and setters for User">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/niit/bej/domain/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/niit/bej/domain/User.java" afterDir="false" />
+    <list default="true" id="77187f92-2c71-471c-85a2-2ece503adc32" name="Changes" comment="added equals() and hashCode() for ProductOrder">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/niit/bej/domain/ProductOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/niit/bej/domain/ProductOrder.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -122,7 +122,49 @@
       <option name="project" value="LOCAL" />
       <updated>1676962609097</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="added equals() and hashCode() for User">
+      <created>1676962681571</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1676962681571</updated>
+    </task>
+    <task id="LOCAL-00010" summary="added toString() for User">
+      <created>1676962700019</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1676962700019</updated>
+    </task>
+    <task id="LOCAL-00011" summary="added fields for ProductOrder">
+      <created>1676962802249</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1676962802249</updated>
+    </task>
+    <task id="LOCAL-00012" summary="added constructors for ProductOrder">
+      <created>1676962852165</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1676962852165</updated>
+    </task>
+    <task id="LOCAL-00013" summary="added getters and setters for ProductOrder">
+      <created>1676962881679</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1676962881679</updated>
+    </task>
+    <task id="LOCAL-00014" summary="added equals() and hashCode() for ProductOrder">
+      <created>1676962919515</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1676962919515</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -146,7 +188,14 @@
     <MESSAGE value="added fields for User" />
     <MESSAGE value="added constructors for User" />
     <MESSAGE value="added getters and setters for User" />
-    <option name="LAST_COMMIT_MESSAGE" value="added getters and setters for User" />
+    <MESSAGE value="added equals() and hashCode() for User" />
+    <MESSAGE value="added toString() for User" />
+    <MESSAGE value="added fields for ProductOrder" />
+    <MESSAGE value="added constructors for ProductOrder" />
+    <MESSAGE value="added getters and setters for ProductOrder" />
+    <MESSAGE value="added equals() and hashCode() for Pro" />
+    <MESSAGE value="added equals() and hashCode() for ProductOrder" />
+    <option name="LAST_COMMIT_MESSAGE" value="added equals() and hashCode() for ProductOrder" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
