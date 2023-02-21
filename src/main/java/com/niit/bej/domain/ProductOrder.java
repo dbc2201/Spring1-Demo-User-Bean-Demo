@@ -47,4 +47,12 @@ public class ProductOrder implements Order {
     public int hashCode() {
         return Objects.hash(id, totalAmount);
     }
+
+    @Override
+    public String toString() {
+        return "ProductOrder{" +
+                "id=" + id +
+                ", totalAmount=" + totalAmount +
+                '}';
+    }
 }
