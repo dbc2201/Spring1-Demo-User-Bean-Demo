@@ -6,4 +6,7 @@
 package com.niit.bej.domain;
 
 public class User {
+    private String username;
+    private String password;
+    private ProductOrder order;
 }
