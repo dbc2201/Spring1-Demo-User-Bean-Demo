@@ -8,4 +8,12 @@ package com.niit.bej.domain;
 public class ProductOrder implements Order {
     private int id;
     private double totalAmount;
+
+    public ProductOrder(int id, double totalAmount) {
+        this.id = id;
+        this.totalAmount = totalAmount;
+    }
+
+    public ProductOrder() {
+    }
 }
