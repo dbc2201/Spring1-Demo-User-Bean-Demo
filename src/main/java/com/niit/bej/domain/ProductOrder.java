@@ -6,4 +6,6 @@
 package com.niit.bej.domain;
 
 public class ProductOrder implements Order {
+    private int id;
+    private double totalAmount;
 }
